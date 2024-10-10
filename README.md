@@ -81,7 +81,7 @@ sistema.>.
 ## Instruções de Instalação
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/sua-organizacao/nome-do-repositorio.git
+   git clone [https://github.com/sua-organizacao/nome-do-repositorio.git](https://github.com/F-I-V-E-Project/core-project)
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo <LICENSE> para mais detalhes.
 ## Contato
