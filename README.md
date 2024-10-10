@@ -88,12 +88,15 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo <LICENSE> para
 ![image](https://github.com/user-attachments/assets/c6e1bce0-c7ee-4796-898d-8c9f04f52e00)
 Fernando Rufino Barcelos
 fernandosbarcelo27@gmail.com
+
 ![image](https://github.com/user-attachments/assets/f7f91ef3-07b8-4431-9868-354794418590)
 Ícaro Wanzeler
 icarowanzeler16@gmail.com
+
 ![image](https://github.com/user-attachments/assets/a5e07dce-9f63-48e9-b8ba-f4ad96ed486c)
 Vanderson Henrique
 vandersonyi@gmail.com
+
 ![image](https://github.com/user-attachments/assets/364c3812-45b2-4665-9a0a-b67324a6bf4e)
 Emilli Giuliane Pereira Lima
 emilligiuliane@gmail.com
