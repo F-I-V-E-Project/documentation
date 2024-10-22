@@ -28,44 +28,40 @@ Exemplos:
 ▪ Controle de caixa – é o processo onde ....
 ▪ SCRUM - Metodologia ágil utilizada no desenvolvimento de projetos
 
-## Requisitos ou História de Usuário
-< Comentário: Aqui serão descritos os requisitos funcionais e não funcionais do
-sistema a ser implementado. Os requisitos, em geral, refletem funções que o usuário
-precisa realizar para atingir o objetivo do sistema ou funções de apoio à estratégia
-do negócio. Registros, controle de fluxo, consultas e cadastros são requisitos típicos.
-Em geral, requisito é algo que o usuário solicita explicitamente (ou requisita)
-O grupo pode optar por usar história de usuário.
+## Requisitos
+Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
 
    ### Requisitos Funcionais
-   perceptível do sistema pelos usuários. Telas, informações, relatórios, fluxo de
-negócio são requisitos funcionais.>
-Exemplos:
-ID    Descrição
-RF 01 O sistema deverá solicitar ao usuário seu login e senha e verificar se o mesmo possui
-permissão de acesso ao sistema
+   RF01: O sistema deverá permitir o cadastro de ao menos duas entidades principais.
+   RF02: O sistema deverá Implementar operações CRUD para todas as entidades relacionadas.
+   RF03: O sistema deve possuir uma interface que permita a interação do usuário com as funcionalidades do sistema.
+   RF04: O sistema deve ser capaz de gerar pelo menos um relatório.
+   RF05: O sistema deve permitir a adição, edição e remoção de registros.
+   RF06: O sistema deve permitir que os usuários emprestam e devolvam materiais da biblioteca, registrando as datas de empréstimo e devolução.
+   RF07: O sistema deve controlar a quantidade de cada item disponível na biblioteca.
+   RF08: O sistema deve permitir que os usuários pesquisem o catálogo da biblioteca.
+   RF09: O sistema deve proibir os usuários com multas de solicitar novos livros.
+   RF10: O sistema deve proibir os usuários de solicitar mais de 3 livros simultaneamente.
 
    ### Requisitos Não Funcionais
-   <Comentário: Requisito Não Funcional é aquele que define os parâmetros de
-funcionamento do sistema, que trarão ao usuário uma melhor experiência no uso do
-sistema, porém não são diretamente acionados por ele. Nesta categoria estão os
-requisitos de arquitetura, desempenho, usabilidade, tempo de resposta, padrão de
-nomenclatura, entre outros. Em geral, os usuários finais do sistema tem uma boa
-noção dos requisitos não funcionais desejados, porém, pela própria subjetividade
-deles, o usuário não os explicita diretamente. Ou, nos melhores casos, o usuário fala
-coisas como: “que o sistema seja rápido”, “fácil de usar”, “atalhos”, “esteja sempre
-disponível”, “não dependa de ninguém para usar”.
-1. Segurança:<Descreve os requisitos associados à integridade dos dados, privacidade,
-como o sistema trata de informação confidencial, liberação de acesso aos usuários do
-sistema.>.
+   RNF01: O sistema deve ser implementado utilizando o padrão Singleton descrito na documentação.
+   RNF02: O sistema deverá ser modular, assim respeitando os principios da POO.
+   RNF03: O código deverá ser versionado no GitHub com os integrantes mantendo o historico claro e organizado de commits
+   RNF04: O projeto deverá ser documentado deixando claro seus objetivos, requisitos, arquitetura e suas principais classes
+   RNF05: O sistema deve ser rápido e eficiente, respondendo às solicitações dos usuários em tempo hábil, mesmo durante períodos de pico de uso.
+   RNF06: O sistema deve proteger os dados da biblioteca contra acesso não autorizado, garantindo a confidencialidade e integridade das informações.
+   RNF07: O sistema deve ser fácil de manter e atualizar, permitindo que a equipe da biblioteca faça alterações e atualizações com facilidade.
+   RNF08: O sistema deve ser fácil de usar e navegar, com uma interface amigável e intuitiva para todos os tipos de usuários.
+   ENF09: O sistema deve utilizar o padrão camelCase
+   
 
 ## Diagramas UML
    <Comentario
    
    ### Diagrama de Casos de Uso
-    <Comentario 
-    ID Caso de Uso               Descrição do Objetivo do Caso de Uso
-    UC1 Consultar Pedido de Sala Permite consultar os pedidos de sala solicitados.
-   
+    
+   ![Biblioteca-CasoDeUso](https://github.com/user-attachments/assets/095d6ec2-08e6-4b1f-88b3-be4d121680b3)
+
    ### Diagrama de Classe
 
 ## Estrutura do Projeto 
