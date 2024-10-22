@@ -33,6 +33,7 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
 
    ### Requisitos Funcionais
    RF01: O sistema deverá permitir o cadastro de ao menos duas entidades principais.
+   
    RF02: O sistema deverá Implementar operações CRUD para todas as entidades relacionadas.
    RF03: O sistema deve possuir uma interface que permita a interação do usuário com as funcionalidades do sistema.
    RF04: O sistema deve ser capaz de gerar pelo menos um relatório.
