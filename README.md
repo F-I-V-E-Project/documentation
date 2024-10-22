@@ -35,24 +35,40 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
    RF01: O sistema deverá permitir o cadastro de ao menos duas entidades principais.
    
    RF02: O sistema deverá Implementar operações CRUD para todas as entidades relacionadas.
+   
    RF03: O sistema deve possuir uma interface que permita a interação do usuário com as funcionalidades do sistema.
+   
    RF04: O sistema deve ser capaz de gerar pelo menos um relatório.
+   
    RF05: O sistema deve permitir a adição, edição e remoção de registros.
+   
    RF06: O sistema deve permitir que os usuários emprestam e devolvam materiais da biblioteca, registrando as datas de empréstimo e devolução.
+   
    RF07: O sistema deve controlar a quantidade de cada item disponível na biblioteca.
+   
    RF08: O sistema deve permitir que os usuários pesquisem o catálogo da biblioteca.
+   
    RF09: O sistema deve proibir os usuários com multas de solicitar novos livros.
+   
    RF10: O sistema deve proibir os usuários de solicitar mais de 3 livros simultaneamente.
 
    ### Requisitos Não Funcionais
    RNF01: O sistema deve ser implementado utilizando o padrão Singleton descrito na documentação.
+   
    RNF02: O sistema deverá ser modular, assim respeitando os principios da POO.
+   
    RNF03: O código deverá ser versionado no GitHub com os integrantes mantendo o historico claro e organizado de commits
+   
    RNF04: O projeto deverá ser documentado deixando claro seus objetivos, requisitos, arquitetura e suas principais classes
+   
    RNF05: O sistema deve ser rápido e eficiente, respondendo às solicitações dos usuários em tempo hábil, mesmo durante períodos de pico de uso.
+   
    RNF06: O sistema deve proteger os dados da biblioteca contra acesso não autorizado, garantindo a confidencialidade e integridade das informações.
+   
    RNF07: O sistema deve ser fácil de manter e atualizar, permitindo que a equipe da biblioteca faça alterações e atualizações com facilidade.
+   
    RNF08: O sistema deve ser fácil de usar e navegar, com uma interface amigável e intuitiva para todos os tipos de usuários.
+   
    ENF09: O sistema deve utilizar o padrão camelCase
    
 
