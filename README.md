@@ -73,11 +73,11 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
    
 
 ## Diagramas UML
-   <Comentario
    
    ### Diagrama de Casos de Uso
     
    ![Biblioteca-CasoDeUso](https://github.com/user-attachments/assets/095d6ec2-08e6-4b1f-88b3-be4d121680b3)
+   
 
    ### Diagrama de Classe
 
@@ -87,8 +87,8 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
 - `docs/`: Documentação adicional.
 
 ## Tecnologias Utilizadas
-- [Linguagem de Programação]
-- [Framework/Biblioteca]
+- Linguagem de Programação: Java.
+- Framework/Biblioteca: 
 - [Outras Tecnologias]
 
 ## Instruções de Instalação
