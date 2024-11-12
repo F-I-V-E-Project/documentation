@@ -7,9 +7,9 @@ Este projeto visa desenvolver um sistema de <descrever> utilizando a metodologia
 ## Índice
 
 1. [Objetivos do Projeto](#objetivo)
-2. [Definições, Acrônimos e Abreviações](#definições,-acrônimos-e-abreviações) 
+2. [Definições, Acrônimos e Abreviações](#definições-acrônimos-e-abreviações)
 3. [Requisitos](#requisitos)
-   1. [Requisitos Funcionais](#rf)
+   1. [Requisitos Funcionais](#requisitosfuncionais)
    2. [Requisitos Não Funcionais](#rnf)
 4. [Diagramas UML](#uml)
    1. [Diagrama de Casos de Uso](#uc)
