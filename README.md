@@ -7,7 +7,7 @@ Este projeto visa desenvolver um sistema de <descrever> utilizando a metodologia
 ## Índice
 
 1. [Objetivos do Projeto](#objetivo)
-2. [Definições, Acrônimos e Abreviações](#definição)
+2. [Definições, Acrônimos e Abreviações](#definições,_Acrônimos_e_Abreviações)
 3. [Requisitos](#requisitos)
    1. [Requisitos Funcionais](#rf)
    2. [Requisitos Não Funcionais](#rnf)
