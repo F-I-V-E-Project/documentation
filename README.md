@@ -81,6 +81,9 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
 
    ### Diagrama de Classe
 
+   ![image](https://github.com/user-attachments/assets/f194426b-e8db-43d4-86cb-d15c21133287)
+
+
 ## Estrutura do Projeto 
 <Comentario: faça a adaptação necessária para o seu projeto
 - `src/`: Código-fonte do projeto.
