@@ -16,9 +16,8 @@ Este projeto visa desenvolver um sistema de <descrever> utilizando a metodologia
    2. [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
    3. [Diagrama de Classe](#diagrama-de-classe)
 5. [Estrutura do Projeto](#estrutura-do-projeto)
-6. [Contribuição](#contribuição)
-7. [Licença](#licença)
-8. [Contato](#contato)
+6. [Licença](#licença)
+7. [Contato](#contato)
 
 ## Definições, Acrônimos e Abreviações.
 < Comentário: listar siglas, termos e abreviações que estão envolvidas com o
