@@ -70,7 +70,10 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
    RNF08: O sistema deve ser fácil de usar e navegar, com uma interface amigável e intuitiva para todos os tipos de usuários.
    
    ENF09: O sistema deve utilizar o padrão camelCase.
-   
+
+##Personas
+   ![WhatsApp Image 2024-11-21 at 22 15 19](https://github.com/user-attachments/assets/24768738-9b51-4508-a9d9-ba5a791a464b)
+
 
 ## Diagramas UML
    
