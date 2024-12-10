@@ -42,7 +42,7 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
    
    RF05: O sistema deve permitir a adição, edição e remoção de registros.
    
-   RF06: O sistema deve permitir que os usuários emprestam e devolvam materiais da biblioteca, registrando as datas de empréstimo e devolução.
+   RF06: O sistema deve permitir que os usuários emprestam e devolvam materiais da biblioteca.
    
    RF07: O sistema deve controlar a quantidade de cada item disponível na biblioteca.
    
@@ -51,7 +51,7 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
    RF09: O sistema deve proibir os usuários com multas de solicitar novos livros.
 
    ### Requisitos Não Funcionais
-   RNF01: O sistema deve ser implementado utilizando o padrão Singleton descrito na documentação.
+   RNF01: O sistema deve ser implementado utilizando o padrão Factory descrito na documentação.
    
    RNF02: O sistema deverá ser modular, assim respeitando os principios da POO.
    
@@ -87,7 +87,6 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
 
 
 ## Estrutura do Projeto 
-<Comentario: faça a adaptação necessária para o seu projeto
 - `src/`: Código-fonte do projeto.
 - `docs/`: Documentação adicional.
 
