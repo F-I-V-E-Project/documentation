@@ -49,8 +49,6 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
    RF08: O sistema deve permitir que os usuários pesquisem o catálogo da biblioteca.
    
    RF09: O sistema deve proibir os usuários com multas de solicitar novos livros.
-   
-   RF10: O sistema deve proibir os usuários de solicitar mais de 3 livros simultaneamente.
 
    ### Requisitos Não Funcionais
    RNF01: O sistema deve ser implementado utilizando o padrão Singleton descrito na documentação.
