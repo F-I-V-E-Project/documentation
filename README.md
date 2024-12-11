@@ -102,7 +102,8 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
 
 ## Estrutura do Projeto 
 - `src/`: Código-fonte do projeto.
-- `docs/`: Documentação adicional.
+- `lib/`: Conector do banco de dados com o código.
+- `BancoDeDados/` Bando de dados do sistema.
 
 ## Tecnologias Utilizadas
 - Linguagem de Programação: Java.
