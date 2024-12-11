@@ -92,8 +92,7 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
 
 ## Tecnologias Utilizadas
 - Linguagem de Programação: Java.
-- Framework/Biblioteca: 
-- [Outras Tecnologias]
+- Framework/Biblioteca: MySQL, MySQLWorkbench
 
 ## Instruções de Instalação
 1. Clone o repositório:
