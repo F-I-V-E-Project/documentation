@@ -97,9 +97,7 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
 
    ### Diagrama de Classe
 
-   ![image](https://github.com/user-attachments/assets/b9f304d9-9028-4c5a-a343-ef8d0fb61dfa)
-
-
+   ![image](https://github.com/user-attachments/assets/85c6f93e-e98e-4743-ab29-e24e82323d55)
 
 
 ## Estrutura do Projeto 
