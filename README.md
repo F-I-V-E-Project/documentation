@@ -24,9 +24,14 @@ Este projeto visa desenvolver um sistema de <descrever> utilizando a metodologia
 sistema e que são utilizadas pelos usuários para indicar áreas internas, documentos,
 processos, etc e são relevantes para o projeto. Listar em ordem alfabética.>
 Exemplos:
-▪ DAC – departamento de adminitracao e controle
-▪ Controle de caixa – é o processo onde ....
-▪ SCRUM - Metodologia ágil utilizada no desenvolvimento de projetos
+▪ CRUD - Acrônimo de Create, Read, Update, Delete.
+▪ GitHub - Plataforma de hospedagem de código-fonte usando o sistema de controle de versão Git.
+▪ MIT - Massachusetts Institute of Technology.
+▪ MySQL - Sistema de gerenciamento de banco de dados relacional de código aberto, amplamente usado para armazenar dados em aplicativos.
+▪ MySQLWorkbench: Ferramenta gráfica para design, desenvolvimento e administração de bancos de dados MySQL.
+▪ POO: Programação Orientada a Objetos.
+▪ Padrão Factory: Padrão de design de software que cria objetos sem expor a lógica de criação ao cliente, utilizando uma interface comum.
+▪ UpperCamelCase: Convenção de nomenclatura onde a primeira letra de cada palavra é maiúscula, sem espaços, por exemplo: MinhaClasseExemplo.
 
 ## Requisitos
 Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
