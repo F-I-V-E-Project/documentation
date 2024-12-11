@@ -2,7 +2,14 @@
 
 ## Descrição
 
-Este projeto visa desenvolver um sistema de <descrever> utilizando a metodologia ágil e práticas de DevOps integradas ao GitHub. A arquitetura do software seguirá o padrão Model-View-Controller (MVC) e incorporará o(s) padrõe(s) de projeto  <descrever> para garantir uma base de código robusta e escalável. O desenvolvimento será feito na linguagem Java.
+Este projeto se trata de uma biblioteca virtual que tem como objetivo permitir um melhor gerenciamento de livros por parte dos funcionários da instituição que o aderir, e visualização da disponibilidade dos livros por parte dos clientes, tornando assim, mais fácil a vida tanto dos trabalhadores docentes quanto dos clientes.
+Escolhemos seguir o padrão de projeto Factory pois vimos que se adequava a proposta do projeto e os integrantes já estavam um pouco familiarizados com este padrão
+
+## Funcionalidades implementadas:
+
+O funcionário pode tanto adicionar, excluir, visualizar e editar tanto Clientes, Funcionários e Livros do sistema
+
+O cliente pode pagar suas multas e vizualizar os livros disponiveis
 
 ## Índice
 
