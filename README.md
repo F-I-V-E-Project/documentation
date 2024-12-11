@@ -9,7 +9,7 @@ Escolhemos seguir o padrão de projeto Factory pois vimos que se adequava a prop
 
 O funcionário pode tanto adicionar, excluir, visualizar e editar tanto Clientes, Funcionários e Livros do sistema
 
-O cliente pode pagar suas multas, vizualizar os livros disponiveis, pegar livros emprestado e devolvelos
+O cliente pode pagar suas multas, vizualizar uma lista dos livros, pegar livros emprestado e devolvelos
 
 ## Índice
 
