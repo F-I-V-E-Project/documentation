@@ -92,9 +92,8 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
    
    ### Diagrama de Casos de Uso
     
-   ![image](https://github.com/user-attachments/assets/b7599fc3-c5e0-4002-81d6-9d5da6966d36)
+   ![image](https://github.com/user-attachments/assets/f79af6b9-a65e-4189-b4ba-a9b57e7ad9b3)
 
-   
 
    ### Diagrama de Classe
 
