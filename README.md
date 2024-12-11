@@ -5,7 +5,7 @@
 Este projeto se trata de uma biblioteca virtual que tem como objetivo permitir um melhor gerenciamento de livros por parte dos funcionários da instituição que o aderir, e visualização da disponibilidade dos livros por parte dos clientes, tornando assim, mais fácil a vida tanto dos trabalhadores docentes quanto dos clientes.
 Escolhemos seguir o padrão de projeto Factory pois vimos que se adequava a proposta do projeto e os integrantes já estavam um pouco familiarizados com este padrão
 
-## Funcionalidades implementadas:
+## Funcionalidades implementadas
 
 O funcionário pode tanto adicionar, excluir, visualizar e editar tanto Clientes, Funcionários e Livros do sistema
 
