@@ -20,10 +20,6 @@ Este projeto visa desenvolver um sistema de <descrever> utilizando a metodologia
 7. [Contato](#contato)
 
 ## Definições, Acrônimos e Abreviações.
-< Comentário: listar siglas, termos e abreviações que estão envolvidas com o
-sistema e que são utilizadas pelos usuários para indicar áreas internas, documentos,
-processos, etc e são relevantes para o projeto. Listar em ordem alfabética.>
-Exemplos:
 ▪ CRUD - Acrônimo de Create, Read, Update, Delete.
 ▪ GitHub - Plataforma de hospedagem de código-fonte usando o sistema de controle de versão Git.
 ▪ MIT - Massachusetts Institute of Technology.
