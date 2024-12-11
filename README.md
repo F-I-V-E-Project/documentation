@@ -62,8 +62,6 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
    RF07: O sistema deve controlar a quantidade de cada item disponível na biblioteca.
    
    RF08: O sistema deve permitir que os usuários pesquisem o catálogo da biblioteca.
-   
-   RF09: O sistema deve proibir os usuários com multas de solicitar novos livros.
 
    ### Requisitos Não Funcionais
    RNF01: O sistema deve ser implementado utilizando o padrão Factory descrito na documentação.
@@ -76,13 +74,11 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
    
    RNF05: O sistema deve ser rápido e eficiente, respondendo às solicitações dos usuários em tempo hábil, mesmo durante períodos de pico de uso.
    
-   RNF06: O sistema deve proteger os dados da biblioteca contra acesso não autorizado, garantindo a confidencialidade e integridade das informações.
+   RNF06: O sistema deve ser fácil de manter e atualizar, permitindo que a equipe da biblioteca faça alterações e atualizações com facilidade.
    
-   RNF07: O sistema deve ser fácil de manter e atualizar, permitindo que a equipe da biblioteca faça alterações e atualizações com facilidade.
+   RNF07: O sistema deve ser fácil de usar e navegar, com uma interface amigável e intuitiva para todos os tipos de usuários.
    
-   RNF08: O sistema deve ser fácil de usar e navegar, com uma interface amigável e intuitiva para todos os tipos de usuários.
-   
-   ENF09: O sistema deve utilizar o padrão UpperCamelCase.
+   ENF08: O sistema deve utilizar o padrão UpperCamelCase.
 
 ## Personas
    ![WhatsApp Image 2024-11-21 at 22 15 19](https://github.com/user-attachments/assets/24768738-9b51-4508-a9d9-ba5a791a464b)
@@ -103,7 +99,6 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
 ## Estrutura do Projeto 
 - `src/`: Código-fonte do projeto.
 - `lib/`: Conector do banco de dados com o código.
-- `BancoDeDados/` Bando de dados do sistema.
 
 ## Tecnologias Utilizadas
 - Linguagem de Programação: Java.
