@@ -90,7 +90,8 @@ Serão descritos abaixo os requisitos funcionais e não funcionais do projeto.
 
    ### Diagrama de Classe
 
-   ![image](https://github.com/user-attachments/assets/18d65906-582d-481a-b86d-f843f35fb670)
+   ![image](https://github.com/user-attachments/assets/b9f304d9-9028-4c5a-a343-ef8d0fb61dfa)
+
 
 
 
